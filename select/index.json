@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "同じ東京の空の下で",
+  "base_artist": "さめざめ",
+  "createdAt": "2026-02-07T22:37:57.784833Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "同じ東京の空の下で",
+      "artist": "さめざめ",
+      "has_synced": false,
+      "path": "select/pl_01_同じ東京の空の下で_さめざめ.txt"
+    }
+  ]
+}
